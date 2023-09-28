@@ -10,7 +10,7 @@ time.sleep(5)
 # Define uma lista de mensagens a serem inseridas
 mensagens = [
     "Está sim",
-    "Em qual frutífera você tem interesse?"
+    "Em quais frutíferas você tem interesse?"
 ]
 
 # Dicionário de valores para as teclas F2 a F5
@@ -22,7 +22,7 @@ valores_teclas = {
 }
 
 # Mensagem para a tecla F6
-mensagem_f6 = "Amora\nAcerola\nAbacate\nBanana\nCajá\nCaju\nCarambola\nFigo\nFramboesa\nJaca\nJabuticaba\nLaranja\nLimão\nTangerinas\nPera\nPêssego\nUva\nNectarina\nEntre outras entre R$ 60 e 90. Em qual tem interesse?"
+mensagem_f6 = "Amora\nAcerola\nAbacate\nBanana\nCajá\nCaju\nCarambola\nFigo\nFramboesa\nJaca\nJabuticaba\nLaranja\nLimão\nTangerinas\nPera\nPêssego\nUva\nNectarina\nEntre outras. Normalmente entre R$ 60 e 90. Em quais tem interesse?"
 
 # Mensagem para a tecla F7
 mensagem_f7 = "Olá, temos"
